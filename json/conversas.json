@@ -1,0 +1,18 @@
+[
+    {
+        "destinatarioId": 1,
+        "dataHora": 1437192931078,
+        "mensagem": "Blá blá blá .....",
+        "enviou": true,
+        "lida": true,
+        "contador": 0
+    },
+    {
+        "destinatarioId": 2,
+        "dataHora": 1437192931178,
+        "mensagem": "Blá blá blá .....",
+        "enviou": true,
+        "lida": true,
+        "contador": 39
+    }
+]

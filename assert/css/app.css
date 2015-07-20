@@ -1,0 +1,61 @@
+.tabs .indicator{
+    background-color: white;
+}
+
+.logo{
+    padding-left: 5%!important;
+}
+nav .brand-logo{
+    font-size: 1.6rem;
+    font-family: "Roboto";
+}
+@media only screen and (max-width : 992px) {
+    nav .brand-logo {
+        left: auto;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        -o-transform: none;
+        transform: none; 
+    } 
+
+    .secondary-content{
+        margin-top: -1.5% !important;
+    }
+
+    .message2{
+        margin-top: auto !important; 
+        margin-right: 1%;
+    }
+
+    span.badge.new:after {
+        content: ""; 
+    }
+    span.badge {
+        min-width: 1.5rem;
+    }
+    span.badge.new{
+        border-radius: 50%;
+    }
+}
+
+.message{
+    margin-top: 0.7%;
+}
+
+.collection .collection-item.avatar{
+    min-height: 50px;
+}
+
+.collection .collection-item{
+    border-bottom: none
+}
+
+.box-chat{
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 2%;
+}
+
+.collection{
+    border: 1px solid #FFFFFF;
+}
