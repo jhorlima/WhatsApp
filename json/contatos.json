@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "Jhordan Lima",
+        "status": "Disponível",
+        "tipo": "CELULAR",
+        "fotoLink": "avatars/1.png"
+    },
+    {
+        "id": 2,
+        "nome": "Jordana Lima",
+        "status": "Disponível",
+        "tipo": "CELULAR",
+        "fotoLink": "avatars/1.png"
+    },
+    {
+        "id": 3,
+        "nome": "Camila Lima",
+        "status": "Disponível",
+        "tipo": "CELULAR",
+        "fotoLink": "avatars/1.png"
+    }
+]
