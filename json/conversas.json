@@ -8,7 +8,7 @@
         "contador": 0
     },
     {
-        "destinatarioId": 2,
+        "destinatarioId": 1,
         "dataHora": 1437192931178,
         "mensagem": "Blá blá blá .....",
         "enviou": true,
